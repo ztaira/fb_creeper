@@ -32,3 +32,28 @@ a text file titled with their user ID
 ### Example Output:
 See data directory
 
+Transcript:
+
+```
+Friend Name
+1480027098
+1480035622293 hey friend I wanna test my creepy script (me)
+1480035679083 respond plz (me)
+1480035681
+1480035684082 Hi
+1480035740571 this is actually terrifying (me)
+1480035702
+1480036895
+1480043698
+1480043716
+1480043806
+1480044838
+1480044868
+1480054500
+1480054566
+1480054921
+1480054944
+1480055584
+1480055681588 g'night
+```
+
