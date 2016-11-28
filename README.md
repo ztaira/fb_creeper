@@ -30,7 +30,11 @@ a text file titled with their user ID
 ```
 
 ### Example Output:
-See data directory
+See data directory for example. The two formats of log messages are:
+```
+[last active time in seconds]
+[message timestamp in milliseconds] message text (me if sent by me)
+```
 
 Transcript:
 
