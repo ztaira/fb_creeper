@@ -3,6 +3,15 @@ Hack-A-Week 13: Python script to programmatically watch fb chat for you. Info
 obtained includes when the person last accessed facebook (little green dot in
 the chat bar) and all messages.
 
+In order to hide, I THINK turning off fb chat will make you invisible
+to this script. However, I'm not entirely sure. This script definitely couldn't
+see everyone in my friends list, and I haven't yet isolated which settings or
+combination of settings affect whether or not the script sees you. Once I know
+for sure, I'll edit this readme appropriately.
+
+Regardless, I hope this repository serves as a very good reminder to BE WARY
+OF WHAT YOU PUT OUT ON SOCIAL MEDIA. You never know who could be watching.
+
 Note: This is just a proof-of-concept script, so there's lots of spaghetti code
 lying around. You've been warned.
 
