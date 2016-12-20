@@ -4,27 +4,8 @@ obtained includes when the person last accessed facebook (little green dot in
 the chat bar) and all messages.
 
 I'm not exactly sure which settings will allow you to hide from this script.
-Turning off messenger/appearing offline would probably do it, which you can do
-in the following places. I edited out my friends' names for privacy reasons.
-
-Facebook's site, in the chat bar options:
-
-![alt text][outputimage]
-[outputimage]: https://github.com/ztaira14/fb_creeper/blob/master/data/fb_site.png "Facebook's site, in the chat bar"
-
-Messenger.com, in the "Active Contacts" menu:
-
-![alt text][outputimage2]
-[outputimage2]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site.png "Messenger.com, in the Active Contacts menu"
-
-![alt text][outputimage3]
-[outputimage3]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site2.png "Messenger.com, in the Active Contacts menu"
-
-Messenger for Android, in the third tab:
-
-![alt text][outputimage4]
-[outputimage4]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_on_android.png "Messenger for Android, in the third tab"
-
+Turning off messenger/appearing offline would probably do it, so I've included
+instructions to do so at the bottom of this README under "How to Turn Off Chat."
 
 Regardless, I hope this repository serves as a very good reminder to be wary
 of what you put out on social media. You never know who could be watching.
@@ -86,4 +67,23 @@ Friend Name
 1480055584
 1480055681588 g'night
 ```
+
+### How to Turn Off Chat for Facebook.com, Messenger.com, and Messenger for Android:
+### Facebook's site, in the chat bar options:
+
+![alt text][outputimage]
+[outputimage]: https://github.com/ztaira14/fb_creeper/blob/master/data/fb_site.png "Facebook's site, in the chat bar"
+
+### Messenger.com, in the "Active Contacts" menu:
+
+![alt text][outputimage2]
+[outputimage2]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site.png "Messenger.com, in the Active Contacts menu"
+
+![alt text][outputimage3]
+[outputimage3]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site2.png "Messenger.com, in the Active Contacts menu"
+
+### Messenger for Android, in the third tab:
+
+![alt text][outputimage4]
+[outputimage4]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_on_android.png "Messenger for Android, in the third tab"
 
