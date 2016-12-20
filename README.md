@@ -8,10 +8,12 @@ Turning off messenger/appearing offline would probably do it, which you can do
 in the following places. I edited out my friends' names for privacy reasons.
 
 Facebook's site, in the chat bar options:
+
 ![alt text][outputimage]
 [outputimage]: https://github.com/ztaira14/fb_creeper/blob/master/data/fb_site.png "Facebook's site, in the chat bar"
 
 Messenger.com, in the "Active Contacts" menu:
+
 ![alt text][outputimage2]
 [outputimage2]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site.png "Messenger.com, in the Active Contacts menu"
 
@@ -19,6 +21,7 @@ Messenger.com, in the "Active Contacts" menu:
 [outputimage3]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site2.png "Messenger.com, in the Active Contacts menu"
 
 Messenger for Android, in the third tab:
+
 ![alt text][outputimage4]
 [outputimage4]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_on_android.png "Messenger for Android, in the third tab"
 
