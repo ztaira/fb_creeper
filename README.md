@@ -3,14 +3,28 @@ Hack-A-Week 13: Python script to programmatically watch fb chat for you. Info
 obtained includes when the person last accessed facebook (little green dot in
 the chat bar) and all messages.
 
-In order to hide, I THINK turning off fb chat will make you invisible
-to this script. However, I'm not entirely sure. This script definitely couldn't
-see everyone in my friends list, and I haven't yet isolated which settings or
-combination of settings affect whether or not the script sees you. Once I know
-for sure, I'll edit this readme appropriately.
+I'm not exactly sure which settings will allow you to hide from this script.
+Turning off messenger/appearing offline would probably do it, which you can do
+in the following places. I edited out my friends' names for privacy reasons.
 
-Regardless, I hope this repository serves as a very good reminder to BE WARY
-OF WHAT YOU PUT OUT ON SOCIAL MEDIA. You never know who could be watching.
+Facebook's site, in the chat bar options:
+![alt text][outputimage]
+[outputimage]: https://github.com/ztaira14/fb_creeper/blob/master/data/fb_site.png "Facebook's site, in the chat bar"
+
+Messenger.com, in the "Active Contacts" menu:
+![alt text][outputimage2]
+[outputimage2]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site.png "Messenger.com, in the Active Contacts menu"
+
+![alt text][outputimage3]
+[outputimage3]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site2.png "Messenger.com, in the Active Contacts menu"
+
+Messenger for Android, in the third tab:
+![alt text][outputimage4]
+[outputimage4]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_on_android.png "Messenger for Android, in the third tab"
+
+
+Regardless, I hope this repository serves as a very good reminder to be wary
+of what you put out on social media. You never know who could be watching.
 
 Note: This is just a proof-of-concept script, so there's lots of spaghetti code
 lying around. You've been warned.
