@@ -71,19 +71,15 @@ Friend Name
 ### How to Turn Off Chat for Facebook.com, Messenger.com, and Messenger for Android:
 ### Facebook's site, in the chat bar options:
 
-![alt text][outputimage]
-[outputimage]: https://github.com/ztaira14/fb_creeper/blob/master/data/fb_site.png "Facebook's site, in the chat bar"
+![alt text](https://github.com/ztaira14/fb_creeper/blob/master/data/fb_site.png "Facebook's site, in the chat bar")
 
 ### Messenger.com, in the "Active Contacts" menu:
 
-![alt text][outputimage2]
-[outputimage2]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site.png "Messenger.com, in the Active Contacts menu"
+![alt text](https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site.png "Messenger.com, in the Active Contacts menu")
 
-![alt text][outputimage3]
-[outputimage3]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site2.png "Messenger.com, in the Active Contacts menu"
+![alt text](https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_site2.png "Messenger.com, in the Active Contacts menu")
 
 ### Messenger for Android, in the third tab:
 
-![alt text][outputimage4]
-[outputimage4]: https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_on_android.png "Messenger for Android, in the third tab"
+![alt text](https://github.com/ztaira14/fb_creeper/blob/master/data/messenger_on_android.png "Messenger for Android, in the third tab")
 
